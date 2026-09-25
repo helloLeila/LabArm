@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remote ML Server Ops"
+  short_description: "Operate shared remote ML servers safely"
+  default_prompt: "Use $remote-ml-server-ops for this remote ML server task."

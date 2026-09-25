@@ -1,3 +1,12 @@
+<!-- LabArm project context -->
+# LabArm
+
+机械臂抓取试管项目：基于 Pi0.5、LoRA、NVIDIA DGX Spark GB10 与 reBot B601-DM，面向实验室试管操作和危险品手套箱自动化探索。
+
+本仓库基于 LeRobot，包含 B601 机械臂支持、Pi0.5 训练与推理代码。数据集、模型权重、训练输出及日志不纳入版本控制。
+
+---
+
 <p align="center">
   <img alt="LeRobot, Hugging Face Robotics Library" src="./media/readme/lerobot-logo-thumbnail.png" width="100%">
 </p>
